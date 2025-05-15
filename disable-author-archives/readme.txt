@@ -2,7 +2,7 @@
 Contributors: freemp
 Tags: author, archives, pages, links, disable, remove, 404
 Requires at least: 2.9
-Tested up to: 6.7
+Tested up to: 6.8
 Stable tag: trunk
 License: GPL v2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
